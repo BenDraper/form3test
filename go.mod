@@ -1,6 +1,6 @@
 module github.com/form3tech-oss/interview-simulator
 
-go 1.23.0
+go 1.23
 
 require github.com/stretchr/testify v1.9.0
 
